@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ModernReactRedux
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> cd ModernReactRedux
 > npm install
 > npm start
 ```
